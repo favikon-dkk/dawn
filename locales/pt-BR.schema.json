@@ -722,6 +722,16 @@
         },
         "margin_bottom": {
           "label": "Margem inferior"
+        },
+        "menu_type_desktop": {
+          "label": "Tipo de menu para desktop",
+          "info": "O tipo de menu é otimizado automaticamente para dispositivos móveis.",
+          "options__1": {
+            "label": "Menu suspenso"
+          },
+          "options__2": {
+            "label": "Megamenu"
+          }
         }
       }
     },
@@ -2080,7 +2090,7 @@
           "label": "Opacidade de sobreposição de imagem"
         },
         "color_scheme": {
-          "info": "Visível quando o contêiner é exibido"
+          "info": "Visível quando o contêiner é exibido."
         },
         "show_text_below": {
           "label": "Exibir conteúdo abaixo da imagem em dispositivos móveis",

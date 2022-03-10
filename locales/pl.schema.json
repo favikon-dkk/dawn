@@ -722,6 +722,16 @@
         },
         "margin_bottom": {
           "label": "Dolna granica"
+        },
+        "menu_type_desktop": {
+          "label": "Typ menu pulpitu",
+          "info": "Typ menu jest automatycznie optymalizowany pod kątem urządzeń mobilnych.",
+          "options__1": {
+            "label": "Lista rozwijana"
+          },
+          "options__2": {
+            "label": "Mega menu"
+          }
         }
       }
     },
@@ -2080,7 +2090,7 @@
           "label": "Nieprzezroczystość nakładki obrazu"
         },
         "color_scheme": {
-          "info": "Widoczne podczas wyświetlania kontenera"
+          "info": "Widoczne podczas wyświetlania kontenera."
         },
         "show_text_below": {
           "label": "Pokaż treść pod obrazem na urządzeniu mobilnym",

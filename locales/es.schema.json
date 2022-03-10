@@ -722,6 +722,16 @@
         },
         "margin_bottom": {
           "label": "Margen inferior"
+        },
+        "menu_type_desktop": {
+          "label": "Tipo de menú de escritorio",
+          "info": "El tipo de menú se optimiza automáticamente para celular.",
+          "options__1": {
+            "label": "Desplegable"
+          },
+          "options__2": {
+            "label": "Mega menú"
+          }
         }
       }
     },
@@ -2080,7 +2090,7 @@
           "label": "Opacidad de la sobreposición de imagen"
         },
         "color_scheme": {
-          "info": "Visible cuando se muestre el contenedor"
+          "info": "Visible cuando se muestre el contenedor."
         },
         "show_text_below": {
           "label": "Mostrar el contenido debajo de la imagen en el móvil",

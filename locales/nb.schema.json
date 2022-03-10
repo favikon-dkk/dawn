@@ -722,6 +722,16 @@
         },
         "margin_bottom": {
           "label": "Bunnmarg"
+        },
+        "menu_type_desktop": {
+          "label": "Menytype på datamaskiner",
+          "info": "Menytypen optimaliseres automatisk for mobil.",
+          "options__1": {
+            "label": "Rullegardin"
+          },
+          "options__2": {
+            "label": "Megameny"
+          }
         }
       }
     },
@@ -2080,7 +2090,7 @@
           "label": "Gjennomsiktighet for bildeoverlegg"
         },
         "color_scheme": {
-          "info": "Synlig når beholderen vises"
+          "info": "Synlig når beholderen vises."
         },
         "show_text_below": {
           "label": "Vis innhold under bildet på mobil",
